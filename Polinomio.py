@@ -6,3 +6,5 @@ class Polinomio(object):
         self.termino_mayor = None
         self.grado = -1
         
+
+        
